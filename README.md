@@ -17,7 +17,7 @@ Install spacy embeddings for tokens:
 	python -m spacy download en_vectors_web_lg
 
 ## Prepare the VQA-v2 dataset
-The image features are extracted using the bottom-up-attention, with each image being represented as 2048-D features. Download the extracted features from [GoogleDrive]() or [OneDrive](). Place the file under the folder './data/vqa/'.
+The image features are extracted using the bottom-up-attention, with each image being represented as 2048-D features. Download the extracted features from [GoogleDrive](https://drive.google.com/file/d/1aybT0vZAfteXVNha6JFDEX_9VC2zLj5N/view?usp=sharing). Place the file under the folder './data/vqa/'.
 
 
 ## Run BiCSL
