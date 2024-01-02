@@ -1,5 +1,4 @@
-# bicsl
-## Bidirectional Contrastive Split Learning for Visual Question Answering [AAAI 24 Technical Track](https://arxiv.org/abs/2208.11435)
+# Bidirectional Contrastive Split Learning for Visual Question Answering [AAAI 24 Technical Track](https://arxiv.org/abs/2208.11435)
 
 We propose Bidirectional Contrastive Split Learning (BiCSL) to train a global multi-modal model on the entire data distribution of decentralized clients. We employ the contrastive loss that enables a more efficient self-supervised learning of decentralized modules. This repository includes the implementation of the experiments on the VQA-v2 dataset based on five SOTA VQA models. 
 
