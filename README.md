@@ -1,6 +1,10 @@
-# Bidirectional Contrastive Split Learning for Visual Question Answering [AAAI 24 Technical Track](https://arxiv.org/abs/2208.11435)
+# Bidirectional Contrastive Split Learning for Visual Question Answering
 
-We propose Bidirectional Contrastive Split Learning (BiCSL) to train a global multi-modal model on the entire data distribution of decentralized clients. We employ the contrastive loss that enables a more efficient self-supervised learning of decentralized modules. This repository includes the implementation of the experiments on the VQA-v2 dataset based on five SOTA VQA models. 
+[![LICENSE](https://img.shields.io/badge/license-MIT-green?style=flat-square)](https://github.com/yaoyao-liu/class-incremental-learning/blob/master/LICENSE) [![Python](https://img.shields.io/badge/python-3.8-blue.svg?style=flat-square&logo=python&color=3776AB&logoColor=3776AB)](https://www.python.org/) [![PyTorch](https://img.shields.io/badge/pytorch-1.14-%237732a8?style=flat-square&logo=PyTorch&color=EE4C2C)](https://pytorch.org/) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+The code repository for "Bidirectional Contrastive Split Learning for Visual Question Answering" [paper](https://arxiv.org/abs/2208.11435) (AAAI24) in PyTorch. It includes the implementation of the experiments on the VQA-v2 dataset based on five SOTA VQA models. 
+
+Bidirectional Contrastive Split Learning (**BiCSL**) trains a global multi-modal model on the entire data distribution of decentralized clients. **BiCSL** employs the contrastive loss to enable a more efficient self-supervised learning of decentralized modules.
 
 <p align="center">
 <img src="bicsl.png" width="80%"/>
